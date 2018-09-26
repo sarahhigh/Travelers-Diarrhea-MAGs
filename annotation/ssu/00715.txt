@@ -1,0 +1,533 @@
+scaffold_1006	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	91.78	146	91.85
+scaffold_1012	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia	98.17	164	96.40
+scaffold_10344	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum	96.46	1412	93.53
+scaffold_10385	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI	100	67	100
+scaffold_1041	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.89	146	80.49
+scaffold_10457	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella	100	929	100
+scaffold_106	Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae;Veillonella	94.86	121	97.85
+scaffold_1064	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Clostridiaceae bacterium DJF_B063;	97.39	1395	100
+scaffold_10682	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII Incertae Sedis	92.87	1487	90.46
+scaffold_1097	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	92.25	374	91.49
+scaffold_10991	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Adlercreutzia;Adlercreutzia equolifaciens;	99.65	1444	84.22
+scaffold_11	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	94.01	167	90.63
+scaffold_11005	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	100	212	98.15
+scaffold_11077	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Parabacteroides	99.38	1445	99.21
+scaffold_11156	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Howardella;Howardella ureilytica;	99.12	113	100
+scaffold_11252	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII Incertae Sedis	97.71	131	95.53
+scaffold_11317	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR70k1;	97.37	152	100
+scaffold_1140	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Ruminococcus lactaris;	97.69	347	100
+scaffold_11537	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	135	100
+scaffold_11940	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	92.51	374	94.04
+scaffold_11969	Bacteria;Firmicutes;Clostridia;Clostridiales	94.03	134	95.79
+scaffold_11979	Bacteria;Firmicutes;Clostridia;Clostridiales	92.67	150	90.05
+scaffold_12085	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Clostridium leptum;	97.38	267	100
+scaffold_12219	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes	100	220	92.87
+scaffold_12486	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	92.36	144	92.40
+scaffold_1250	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio	98.06	115	98.67
+scaffold_12544	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	225	99.56
+scaffold_12697	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum	97.98	1137	95.88
+scaffold_130	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Lachnobacterium sp. wal 14165;	97.17	353	100
+scaffold_1304	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	99.44	354	99.43
+scaffold_1308	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	98.29	132	96.86
+scaffold_1311	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus;Ruminococcus callidus;	98.73	1422	99.39
+scaffold_13268	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.68	76	99.73
+scaffold_13305	Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae str. Fujisawa;	98.65	105	98.92
+scaffold_13380	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	100	73	99.43
+scaffold_134	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerosporobacter	96.34	297	100
+scaffold_13612	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Clostridium scindens	99.75	792	87.02
+scaffold_13676	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	89.82	275	91.35
+scaffold_1386	Bacteria	94.38	89	61.45
+scaffold_13874	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.84	172	91.94
+scaffold_1389	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	96.61	1413	94.39
+scaffold_1401	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR52;	97.32	149	100
+scaffold_1407	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	99.56	457	98.46
+scaffold_14176	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	96.28	1049	91.13
+scaffold_1430	Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae;Veillonella	94.86	121	97.85
+scaffold_1433	Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium	100	81	100
+scaffold_14465	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	92.74	124	98.54
+scaffold_145	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.86	290	95.01
+scaffold_1459	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	94.12	374	95.42
+scaffold_14665	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Eubacterium sp. C124b;	98.44	128	100
+scaffold_1485	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum	97.86	468	95.36
+scaffold_14932	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Ruminococcus lactaris	100	1376	86.82
+scaffold_15024	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Bacteroidales bacterium ph8;	100	1387	100
+scaffold_15083	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Parabacteroides;Parabacteroides distasonis;	99.61	256	93.94
+scaffold_15264	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	95.94	419	80.54
+scaffold_15438	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii;	98.4	312	91.99
+scaffold_1551	Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae;Phascolarctobacterium;Phascolarctobacterium faecium;	99.86	1480	99.87
+scaffold_15510	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	96.54	463	80.47
+scaffold_15612	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	92.53	834	94.01
+scaffold_15989	Bacteria;Firmicutes;Clostridia;Thermolithobacterales;Thermolithobacteraceae;Thermolithobacter;Thermolithobacter carboxydivorans;	100	93	100
+scaffold_16197	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	96.47	722	93.76
+scaffold_1630	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae	100	145	100
+scaffold_16434	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI	100	67	100
+scaffold_1655	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	99.43	870	97.33
+scaffold_1697	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	93.64	236	100
+scaffold_1703	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	96.82	157	94.31
+scaffold_17054	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Alistipes finegoldii;	100	597	97.58
+scaffold_1714	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella	100	83	100
+scaffold_17222	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	99.59	983	96.52
+scaffold_17504	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	94.17	1457	93.30
+scaffold_1770	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	91.23	171	100
+scaffold_1781	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter	100	68	82.45
+scaffold_179	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Eubacterium rectale;	98.73	237	100
+scaffold_17902	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;butyrate-producing bacterium L2-12;	99.44	1241	100
+scaffold_182	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	92.81	167	92.61
+scaffold_18256	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Howardella;Howardella ureilytica;	98.28	1456	100
+scaffold_18356	Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales;Erysipelotrichaceae;Incertae Sedis	98.9	1448	97.22
+scaffold_1862	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	94.92	295	95.66
+scaffold_1884	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	96.58	146	94.70
+scaffold_18989	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.67	258	80.88
+scaffold_1909	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus salivarius subsp. thermophilus;	99.93	1469	99.94
+scaffold_19126	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Incertae Sedis	93.43	137	95.26
+scaffold_1914	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium	97.99	349	95.36
+scaffold_19524	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	96.79	1306	88.14
+scaffold_1955	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR70k1;	97.46	118	100
+scaffold_1965	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	92.35	196	94.60
+scaffold_1983	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	98.01	151	93.01
+scaffold_19968	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	94.74	152	92.53
+scaffold_1997	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	95.53	381	89.79
+scaffold_2011	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	95.83	432	80.55
+scaffold_20209	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	95.69	557	80.46
+scaffold_20218	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides caccae;	99.48	194	99.23
+scaffold_206	Bacteria;Firmicutes;Clostridia;Clostridiales	94.69	113	83.24
+scaffold_20695	Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae	98.77	81	97.42
+scaffold_20709	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales	96.5	200	95.16
+scaffold_20751	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	99.5	601	98.90
+scaffold_2082	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	93.4	1454	91.88
+scaffold_21004	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	96.44	1236	93.83
+scaffold_21217	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Flavonifractor	94.58	775	94.88
+scaffold_21518	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.63	267	80.00
+scaffold_2155	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	90.16	1443	93.10
+scaffold_21617	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.7	261	81.43
+scaffold_22230	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides caccae;	99.71	689	85.65
+scaffold_22251	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	99.48	953	98.46
+scaffold_2227	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	134	100
+scaffold_226	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	92.81	167	91.90
+scaffold_22872	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	95.54	157	94.63
+scaffold_2310	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	99.35	154	80.42
+scaffold_233	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	95.27	169	94.01
+scaffold_23659	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Incertae Sedis	99.37	1424	99.06
+scaffold_23724	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	92.99	956	91.06
+scaffold_23809	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter	95.14	1091	95.89
+scaffold_2408	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR52;	97.32	149	100
+scaffold_24156	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR70k1;	97.52	524	100
+scaffold_24273	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	94.51	1057	95.28
+scaffold_24354	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	100	323	100
+scaffold_2450	Bacteria;Firmicutes;Clostridia;Clostridiales	100	59	85.54
+scaffold_24610	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Incertae Sedis	90.1	202	100
+scaffold_24687	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	96.4	500	94.12
+scaffold_2498	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes	99.92	1201	96.21
+scaffold_25115	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	96.30	423	90.00
+scaffold_25248	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Incertae Sedis;Ruminococcus sp. 16442;	97.93	531	100
+scaffold_25345	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	98.55	275	96.81
+scaffold_25350	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.35	1040	80.57
+scaffold_2537	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	99.45	547	96.70
+scaffold_2565	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.43	84	81.57
+scaffold_26071	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	99.59	1454	91.23
+scaffold_26178	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella	99.46	927	99.19
+scaffold_26549	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Incertae Sedis	94.74	780	95.61
+scaffold_2656	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Butyrivibrio	100	64	100
+scaffold_266	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	96.57	204	100
+scaffold_26630	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.59	83	98.96
+scaffold_26631	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	99.78	925	95.28
+scaffold_26645	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.33	1434	95.46
+scaffold_26663	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	99.91	1109	97.02
+scaffold_26706	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum	99.82	1136	97.28
+scaffold_26755	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Parabacteroides;Parabacteroides distasonis;	99.61	256	93.94
+scaffold_26773	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides vulgatus ATCC 8482;	100	194	100
+scaffold_26821	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	96.71	365	94.56
+scaffold_27264	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;butyrate-producing bacterium PH07BW09;	97.07	785	100
+scaffold_2736	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	95.52	402	96.11
+scaffold_27734	Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae str. Fujisawa;	100	68	100
+scaffold_2807	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Eubacterium rectale;	98.24	284	100
+scaffold_28090	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	93.27	1456	94.05
+scaffold_282	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	99.73	372	95.78
+scaffold_28524	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.18	388	92.51
+scaffold_28676	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae	99.35	154	99.87
+scaffold_28684	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	99.62	260	95.82
+scaffold_28957	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Dorea;Dorea formicigenerans ATCC 27755;	100	228	80.34
+scaffold_28964	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	100	241	99.01
+scaffold_29	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.68	76	99.73
+scaffold_2904	Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae;Phascolarctobacterium;Phascolarctobacterium faecium;	98.32	119	83.50
+scaffold_29168	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	91.91	173	94.30
+scaffold_29239	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	99.05	1372	93.96
+scaffold_2944	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Ruminococcus lactaris ATCC 29176;	100	147	100
+scaffold_29810	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella	100	285	100
+scaffold_301	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia	92.4	171	93.92
+scaffold_30114	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.33	321	94.95
+scaffold_30184	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	100	73	99.43
+scaffold_3020	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	94.81	135	94.02
+scaffold_30233	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella	100	289	100
+scaffold_303	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium	96.59	410	96.51
+scaffold_30683	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	92.76	829	91.80
+scaffold_30796	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	94.14	290	96.00
+scaffold_3095	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;butyrate-producing bacterium Ph07AW01;	97.42	1200	100
+scaffold_30989	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	99.59	242	91.59
+scaffold_31008	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	100	169	99.23
+scaffold_31168	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.72	234	97.92
+scaffold_31230	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;[Ruminococcus] obeum;	97.16	1442	100
+scaffold_31404	Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales;Erysipelotrichaceae	100	84	97.12
+scaffold_3150	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	93.07	332	91.16
+scaffold_3164	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	91.81	342	89.17
+scaffold_31784	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.7	261	81.43
+scaffold_31835	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	94.92	1379	95.90
+scaffold_31942	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii;	99.44	720	98.07
+scaffold_32290	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	93.69	111	88.24
+scaffold_3230	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	93.07	231	94.69
+scaffold_32422	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	98.8	1414	96.13
+scaffold_32670	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Odoribacter	99.58	946	99.15
+scaffold_32681	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus johnsonii FI9785;	100	60	94.11
+scaffold_32718	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella	99.64	1385	99.17
+scaffold_32766	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	98.45	258	97.08
+scaffold_3285	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Incertae Sedis	96.81	925	93.54
+scaffold_33000	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Ruminococcus lactaris	98.53	341	86.60
+scaffold_33092	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Dorea;Dorea formicigenerans ATCC 27755;	100	235	80.33
+scaffold_33109	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum	100	224	98.22
+scaffold_332	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	93.53	1263	92.30
+scaffold_3323	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Ruminococcus lactaris;	97.12	347	100
+scaffold_33494	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia stercoris;	98.16	381	100
+scaffold_33626	Bacteria;Bacteroidetes;Flavobacteria;Flavobacteriales;Flavobacteriaceae	100	58	85.76
+scaffold_33841	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.7	261	81.63
+scaffold_33842	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Dorea;Dorea formicigenerans ATCC 27755;	100	228	80.34
+scaffold_34	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	92.42	242	90.87
+scaffold_34124	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	174	80.38
+scaffold_34184	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia	95.73	1358	96.10
+scaffold_3432	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	93.48	92	91.41
+scaffold_34419	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	93.82	689	93.95
+scaffold_34537	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae	99.67	301	99.67
+scaffold_34927	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus;Clostridium sp. ID5;	97.78	450	100
+scaffold_351	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Dorea	99.85	1326	97.80
+scaffold_3517	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes	99.75	1198	97.24
+scaffold_35334	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes	99.21	629	98.89
+scaffold_35637	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	98.46	259	98.57
+scaffold_35739	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus	99.65	284	99.22
+scaffold_3583	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus	100	59	100
+scaffold_36193	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;Roseburia hominis A2-183;	97.71	962	98.08
+scaffold_36223	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii;	98.69	153	97.97
+scaffold_3651	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	98.97	1455	97.12
+scaffold_36563	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;Roseburia inulinivorans;	99.11	562	100
+scaffold_36609	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	98.13	268	97.53
+scaffold_3670	Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales;Erysipelotrichaceae	99.78	1391	93.59
+scaffold_37068	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	95.84	1131	95.86
+scaffold_3713	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides vulgatus ATCC 8482;	100	125	100
+scaffold_3729	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	99.3	142	90.94
+scaffold_37300	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales	97.62	84	97.88
+scaffold_37325	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae	98.18	110	97.12
+scaffold_37525	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Adlercreutzia;Adlercreutzia equolifaciens;	97.01	268	100
+scaffold_37803	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	100	278	99.42
+scaffold_37889	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.04	240	80.38
+scaffold_3808	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	95.32	1453	94.12
+scaffold_3836	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	99.17	362	92.20
+scaffold_385	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR52;	99.29	424	100
+scaffold_3869	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	93.39	321	92.23
+scaffold_3876	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	99.59	242	91.59
+scaffold_38853	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Incertae Sedis	95.73	122	96.32
+scaffold_39535	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.78	246	82.35
+scaffold_39637	Bacteria;Firmicutes;Clostridia;Clostridiales	95.15	103	91.65
+scaffold_39653	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	96.32	272	97.05
+scaffold_39869	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	93.59	1108	93.30
+scaffold_4036	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	99.17	121	93.18
+scaffold_40361	Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Paenibacillus	90.03	341	95.11
+scaffold_41187	Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales;Erysipelotrichaceae;Incertae Sedis	99.8	1011	94.97
+scaffold_4134	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	94.12	374	94.54
+scaffold_41386	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	92.86	238	94.46
+scaffold_41500	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	98.06	1084	95.80
+scaffold_41609	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.33	354	94.08
+scaffold_41721	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	96.82	283	97.44
+scaffold_41952	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.44	285	80.13
+scaffold_42014	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	99.55	224	96.19
+scaffold_42075	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	100	247	97.11
+scaffold_42240	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	100	228	97.25
+scaffold_4230	Bacteria	97.33	75	35.05
+scaffold_42428	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.78	246	81.54
+scaffold_42659	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;[Bacteroides] pectinophilus ATCC 43243;	97.28	257	100
+scaffold_42694	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	249	80.31
+scaffold_43173	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	97.79	226	97.61
+scaffold_43197	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella aerofaciens;	97.91	287	100
+scaffold_43207	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.72	234	97.92
+scaffold_43304	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Clostridium scindens	99.76	844	86.91
+scaffold_43551	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.43	84	81.57
+scaffold_43588	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	98.16	326	97.80
+scaffold_43644	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.78	327	97.54
+scaffold_43731	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum	98.64	220	83.35
+scaffold_4375	Bacteria	100	65	75.84
+scaffold_43810	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	99.61	256	97.07
+scaffold_43811	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.06	258	80.73
+scaffold_43904	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	97.86	280	97.57
+scaffold_4398	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio fibrisolvens;	97.51	145	93.60
+scaffold_44073	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus salivarius JIM8777;	100	368	100
+scaffold_4431	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR70k1;	97.71	131	100
+scaffold_449	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Clostridiales bacterium A2-162;	98.93	187	100
+scaffold_45	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	96.23	239	91.95
+scaffold_45158	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.56	348	94.59
+scaffold_45304	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Lachnospiraceae bacterium 6_1_63FAA;	98.48	263	100
+scaffold_45396	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	99.11	789	96.56
+scaffold_454	Bacteria;Firmicutes;Clostridia;Clostridiales	91.94	124	91.37
+scaffold_4541	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Incertae Sedis	95.91	684	95.09
+scaffold_45510	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.06	258	80.73
+scaffold_45560	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.7	261	81.69
+scaffold_45578	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.32	272	81.10
+scaffold_45641	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	99.14	116	80.18
+scaffold_45713	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Clostridium leptum;	97.38	267	100
+scaffold_45764	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.13	155	94.13
+scaffold_45778	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.18	288	93.60
+scaffold_46105	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	92.91	888	92.72
+scaffold_46346	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.32	272	81.10
+scaffold_46526	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	158	80.76
+scaffold_46582	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	95.49	791	93.05
+scaffold_467	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	94.46	289	93.19
+scaffold_46746	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.99	199	98.19
+scaffold_46957	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	98.45	258	97.08
+scaffold_47006	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	92.81	167	91.64
+scaffold_47137	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	98.46	259	98.57
+scaffold_47318	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;[Bacteroides] pectinophilus ATCC 43243;	97.28	257	100
+scaffold_475	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	98.05	256	91.68
+scaffold_47687	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	99.69	322	96.36
+scaffold_47871	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	256	80.30
+scaffold_48053	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;bacterium YE62;	97.39	115	100
+scaffold_48189	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	249	80.31
+scaffold_48399	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	100	225	97.24
+scaffold_485	Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae	98.77	81	97.42
+scaffold_48687	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum	99.58	238	83.75
+scaffold_48921	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae	97.95	440	93.76
+scaffold_48996	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.98	249	94.96
+scaffold_490	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	96.67	60	80.77
+scaffold_49022	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides caccae;	99.88	835	99.36
+scaffold_49047	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	93.27	550	93.72
+scaffold_49372	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella	100	229	100
+scaffold_49429	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	93.52	423	91.39
+scaffold_49494	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella aerofaciens	99.21	379	86.42
+scaffold_49508	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.36	165	80.64
+scaffold_49512	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum	99.09	220	83.42
+scaffold_49855	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides salyersiae;	97.83	415	98.67
+scaffold_5	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus	91.34	1374	96.73
+scaffold_50668	Bacteria;Firmicutes;Clostridia;Clostridiales	94.63	242	92.83
+scaffold_50905	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	96.43	168	94.50
+scaffold_51285	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	94.23	104	95.21
+scaffold_513	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Clostridiales bacterium A2-162;	98.51	269	100
+scaffold_51336	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII Incertae Sedis	94.99	639	93.14
+scaffold_51389	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Clostridium sp. IE5;	97.32	784	100
+scaffold_51684	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	99.61	258	97.08
+scaffold_51718	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella	100	832	100
+scaffold_5199	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes	100	288	97.69
+scaffold_52057	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	98.32	357	96.31
+scaffold_52143	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.41	195	94.50
+scaffold_52200	Bacteria;Firmicutes;Clostridia;Clostridiales	95.56	135	92.21
+scaffold_52247	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	96.23	212	94.42
+scaffold_53464	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.06	258	80.73
+scaffold_53580	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.3	235	81.24
+scaffold_53602	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus infantarius subsp. infantarius CJ18;	100	457	100
+scaffold_53645	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	94.99	859	94.16
+scaffold_53935	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	94.19	413	93.22
+scaffold_54111	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	100	281	95.92
+scaffold_54127	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii;	98.06	720	98.49
+scaffold_54209	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes	100	288	97.69
+scaffold_54361	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.63	89	80.90
+scaffold_547	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	94.1	356	92.61
+scaffold_54855	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.7	261	81.63
+scaffold_55063	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.78	246	81.54
+scaffold_55315	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii;	98.34	483	99.31
+scaffold_55617	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII Incertae Sedis	96.93	228	95.21
+scaffold_56	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	96.68	935	96.92
+scaffold_56301	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	90.44	774	91.72
+scaffold_56584	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.67	258	80.88
+scaffold_56790	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	92.56	344	80.06
+scaffold_5690	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	88.95	181	90.28
+scaffold_57037	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	94.23	104	95.21
+scaffold_57165	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.98	249	94.96
+scaffold_57170	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.18	311	95.14
+scaffold_57342	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Ruminococcus lactaris ATCC 29176;	97.69	216	100
+scaffold_57441	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	91.83	796	93.14
+scaffold_58281	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum	96	475	97.00
+scaffold_583	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Dorea;Dorea formicigenerans	100	153	86.52
+scaffold_5830	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII Incertae Sedis	96.18	1298	89.49
+scaffold_58351	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	99.36	157	80.11
+scaffold_58416	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	96.65	179	80.94
+scaffold_58489	Bacteria;Firmicutes;Clostridia	100	66	82.25
+scaffold_58729	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	94.12	357	92.45
+scaffold_58805	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	98.46	259	97.08
+scaffold_59021	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	94	417	93.63
+scaffold_5907	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae	100	131	100
+scaffold_59185	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.17	219	95.65
+scaffold_59234	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	97.83	277	97.54
+scaffold_59319	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Clostridium sp. CE6;	98.63	365	100
+scaffold_594	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	99.17	121	93.18
+scaffold_59528	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum	95.77	497	97.78
+scaffold_59563	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella aerofaciens	100	378	86.46
+scaffold_59589	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	98.51	268	96.92
+scaffold_597	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio	98.06	115	98.67
+scaffold_60225	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	100	228	97.25
+scaffold_60255	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII Incertae Sedis	89.28	345	90.58
+scaffold_60394	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR70k1;	97.71	131	100
+scaffold_60815	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	97.44	156	88.00
+scaffold_61	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.74	141	93.81
+scaffold_61164	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	100	225	97.24
+scaffold_61540	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	91.02	646	92.64
+scaffold_61584	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Lachnospiraceae bacterium 6_1_63FAA;	98.48	263	100
+scaffold_61737	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	97.88	707	95.14
+scaffold_6213	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	99.71	1398	99.37
+scaffold_62509	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	100	94	92.12
+scaffold_63084	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	95.91	733	94.90
+scaffold_63578	Bacteria;Firmicutes;Clostridia;Clostridiales	97.3	74	98.38
+scaffold_63694	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.15	286	81.42
+scaffold_6447	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Clostridiales bacterium A2-162;	97.06	238	100
+scaffold_655	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	134	100
+scaffold_65610	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	91.23	171	100
+scaffold_657	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	95	120	83.22
+scaffold_66458	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium	99.71	696	98.57
+scaffold_66668	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	94.51	692	93.59
+scaffold_67	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium	99.28	138	95.44
+scaffold_6767	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	100	212	98.15
+scaffold_67945	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Dorea	99.3	569	98.00
+scaffold_68	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;butyrate-producing bacterium Ph07AW01;	97.39	306	100
+scaffold_68303	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.21	223	96.52
+scaffold_68972	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII Incertae Sedis	88.73	648	89.83
+scaffold_691	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR70k1;	97.44	156	100
+scaffold_693	Bacteria;Firmicutes;Clostridia;Clostridiales	91.24	137	91.22
+scaffold_69472	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	95.68	509	97.79
+scaffold_6970	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Incertae Sedis	96.57	466	95.93
+scaffold_6979	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes	99.76	418	93.99
+scaffold_69946	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	94.55	550	95.41
+scaffold_69979	Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Weissella	98.79	663	98.49
+scaffold_70369	Bacteria;Firmicutes	91.76	279	92.10
+scaffold_70475	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	96.96	658	93.28
+scaffold_70619	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus;Clostridium sp. ID5;	99.65	289	100
+scaffold_713	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus	94.42	1434	95.32
+scaffold_71443	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	93.9	590	93.71
+scaffold_7163	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides caccae;	99.48	194	99.23
+scaffold_72659	Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Weissella	100	638	99.43
+scaffold_72849	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	100	73	97.02
+scaffold_735	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	175	99.43
+scaffold_73529	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	94.58	203	92.40
+scaffold_74182	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	99.44	177	98.10
+scaffold_74766	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII Incertae Sedis	93.95	463	93.89
+scaffold_74941	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter	98.19	122	97.45
+scaffold_75135	Bacteria;Firmicutes;Clostridia;Clostridiales	92.99	561	88.49
+scaffold_75426	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.88	243	80.27
+scaffold_76049	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella	100	285	100
+scaffold_7637	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;[Bacteroides] pectinophilus ATCC 43243;	97.57	206	100
+scaffold_76403	Mitochondria;;;;;	100	126	98.73
+scaffold_76481	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus	100	65	100
+scaffold_769	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR52;	97.26	401	100
+scaffold_77634	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii;	98	549	98.72
+scaffold_77663	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;butyrate-producing bacterium PH07BW09;	97.83	599	100
+scaffold_778	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	90.16	122	98.03
+scaffold_779	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Eubacterium rectale;	98.08	416	100
+scaffold_78553	Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales;Erysipelotrichaceae	96.93	424	96.15
+scaffold_79117	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Incertae Sedis	95.09	457	95.27
+scaffold_79505	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	98.13	107	82.80
+scaffold_79633	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella	98.4	188	97.64
+scaffold_80104	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	94.66	338	85.15
+scaffold_80178	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales	91.98	374	93.20
+scaffold_80203	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus thermophilus ND03;	100	95	94.11
+scaffold_806	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium	95.98	249	96.52
+scaffold_811	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.48	119	94.35
+scaffold_81588	Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae	100	71	100
+scaffold_82	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR52;	99.38	325	100
+scaffold_8253	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR70k1;	98.43	191	100
+scaffold_82546	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	92.21	154	91.43
+scaffold_82665	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	130	100
+scaffold_830	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Clostridiales bacterium A2-162;	99.43	349	100
+scaffold_83034	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Clostridiales bacterium A2-162;	99.77	441	100
+scaffold_8334	Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium	100	1444	100
+scaffold_83439	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.71	559	94.32
+scaffold_84153	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.88	353	94.74
+scaffold_8432	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	88.80	1210	92.34
+scaffold_84450	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Dorea;Dorea formicigenerans ATCC 27755	99.59	245	83.76
+scaffold_8475	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.6	147	93.65
+scaffold_84803	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII Incertae Sedis	98.17	164	96.55
+scaffold_84821	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	100	372	95.35
+scaffold_84867	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	95.23	545	92.30
+scaffold_8510	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum	97.05	475	96.09
+scaffold_85606	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	99.06	427	96.47
+scaffold_85836	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII Incertae Sedis	96.11	411	93.91
+scaffold_859	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Ruminococcus lactaris ATCC 29176;	98.69	382	100
+scaffold_86	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR52;	97.63	211	100
+scaffold_864	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	94.57	184	94.17
+scaffold_86558	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	94.16	257	94.51
+scaffold_86637	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	99.57	466	99.57
+scaffold_8713	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Parabacteroides;Parabacteroides merdae;	99.93	1401	86.01
+scaffold_87174	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes	100	119	89.82
+scaffold_88004	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter	95.3	532	95.63
+scaffold_88303	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.9	238	81.33
+scaffold_88622	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes	100	168	90.54
+scaffold_89037	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides vulgatus ATCC 8482;	99.21	127	99.36
+scaffold_89411	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	94.39	285	92.16
+scaffold_90134	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus	99.03	515	98.79
+scaffold_90136	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.78	246	82.35
+scaffold_90748	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;[Ruminococcus] obeum;	98.46	518	100
+scaffold_90965	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Eubacterium rectale;	99.18	245	100
+scaffold_9097	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Eggerthella	92.38	1296	94.25
+scaffold_9113	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;Oscillibacter valericigenes	97.81	1408	86.05
+scaffold_91574	Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae;Phascolarctobacterium;Phascolarctobacterium faecium;	99.37	318	99.68
+scaffold_918	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	99.93	1498	99.72
+scaffold_92312	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Incertae Sedis	98.54	206	97.51
+scaffold_9238	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;butyrate-producing bacterium Ph07AW01;	97.53	324	100
+scaffold_92449	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.15	216	95.60
+scaffold_92655	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium	97.09	344	96.57
+scaffold_9291	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;Oscillibacter valericigenes Sjm18-20	98.17	164	83.25
+scaffold_9303	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR52;	98.63	146	100
+scaffold_93208	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	99.77	439	98.67
+scaffold_93246	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	92.31	429	92.34
+scaffold_93260	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	96.74	215	81.70
+scaffold_93472	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.14	210	81.06
+scaffold_9357	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	97.95	146	93.27
+scaffold_93769	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR52;	97.53	324	100
+scaffold_93853	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR52;	97.22	324	100
+scaffold_93876	Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales;Erysipelotrichaceae;Incertae Sedis;Clostridium spiroforme	99.8	497	87.20
+scaffold_9428	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	94.36	763	96.28
+scaffold_94365	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	96.6	324	91.72
+scaffold_94370	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae	97.01	134	97.01
+scaffold_94376	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	99.75	401	98.37
+scaffold_94384	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella aerofaciens;	97.91	287	100
+scaffold_944	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;Akkermansia;Akkermansia muciniphila	99.16	1433	86.88
+scaffold_94401	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii;	97.32	411	98.60
+scaffold_94414	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.44	285	80.13
+scaffold_94430	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii;	98.17	438	92.98
+scaffold_94436	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.88	243	80.27
+scaffold_94443	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes	99.69	325	97.86
+scaffold_94454	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae	98.18	110	97.12
+scaffold_94462	Bacteria;Firmicutes;Clostridia;Clostridiales	100	59	84.42
+scaffold_94473	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	100	281	95.92
+scaffold_94506	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	100	278	99.42
+scaffold_94507	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	98.08	261	98.23
+scaffold_94520	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.48	119	94.35
+scaffold_94526	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	100	94	92.12
+scaffold_94597	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	175	99.43
+scaffold_94624	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	225	99.56
+scaffold_94637	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis	99.71	346	97.51
+scaffold_94654	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	90.16	122	98.03
+scaffold_94657	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	99.55	224	96.19
+scaffold_94659	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	100	339	95.47
+scaffold_9467	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	99.89	951	99.34
+scaffold_94671	Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae;Phascolarctobacterium;Phascolarctobacterium faecium;	98.32	119	83.50
+scaffold_94725	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	100	247	97.11
+scaffold_94728	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum	99.69	321	96.19
+scaffold_94735	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR70k1;	97.37	152	100
+scaffold_94747	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	100	239	82.52
+scaffold_94756	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	95.98	249	94.96
+scaffold_94773	Bacteria;Firmicutes;Clostridia;Clostridiales	91.24	137	91.22
+scaffold_94775	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	100	242	96.69
+scaffold_94778	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	99.61	256	97.07
+scaffold_94782	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	97.83	277	97.54
+scaffold_94799	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	100	252	97.13
+scaffold_94802	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	98.51	268	96.92
+scaffold_94826	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp. DJF_VR70k1;	97.44	156	100
+scaffold_94837	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	100	239	82.52
+scaffold_94840	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	256	80.30
+scaffold_94842	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Dorea;Dorea formicigenerans ATCC 27755;	100	235	80.33
+scaffold_94867	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	100	252	97.13
+scaffold_94886	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella	100	289	100
+scaffold_94967	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia	99.61	258	97.08
+scaffold_94987	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Parabacteroides;Parabacteroides distasonis;	99.61	258	93.94
+scaffold_9499	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Eggerthella;Eggerthella lenta	99.93	1475	87.39
+scaffold_95094	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Eubacterium hadrum;	100	135	100
+scaffold_952	Bacteria	100	65	50
+scaffold_95310	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae	98.46	259	97.08
+scaffold_961	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus	100	140	100
+scaffold_962	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	98.58	212	95.21
+scaffold_9634	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides	100	367	99.13
+scaffold_9692	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Alistipes finegoldii;	100	224	98.81
+scaffold_9695	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae	97.98	1439	80.20
+scaffold_9700	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Parabacteroides;Parabacteroides distasonis;	99.61	258	93.94

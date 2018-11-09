@@ -2,7 +2,10 @@
 Metagenomic Assembled Genomes from Travelers' Diarrhea Subjects
 
 ## Basic information
-A manuscript describing this study is under review.
+
+This study is described by:
+
+Qiyun Zhu, Christopher L. Dupont, Marcus B. Jones, Kevin M. Pham, Zhi-Dong Jiang, Herbert L. DuPont and Sarah K. Highlander. [Visualization-assisted binning of metagenome assemblies reveals potential new pathogenic profiles in idiopathic travelers&rsquo; diarrhea](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0579-0). _Microbiome_ 2018 **6**:201.
 
 Please contact **Dr. Sarah Highlander** ([shighlander@tgen.org](shighlander@tgen.org)) with any questions.
 
